@@ -1,0 +1,216 @@
+<section class="awe-section">
+					<div class="container">
+						
+						<!-- page-title -->
+						<div class="page-title pb-40">
+							<h2 class="page-title__title">Work</h2>
+							<p class="page-title__text">My research, internships, and projects!</p>
+							<div class="page-title__divider"></div>
+						</div><!-- End / page-title -->
+						
+					</div>
+				</section>
+				<!-- End / Section -->
+				
+				
+				<!-- Section -->
+				<section class="awe-section bg-gray">
+					<div class="container">
+						<div class="grid-css grid-css--masonry" data-col-lg="3" data-col-md="2" data-col-sm="2" data-col-xs="1" data-gap="30">
+							<div class="grid__inner">
+								<div class="grid-sizer"></div>
+								<div class="grid-item">
+									<div class="grid-item__inner">
+										<div class="grid-item__content-wrapper">
+											
+											<!-- work -->
+											<div class="work">
+													
+													<!-- hoverbox ef-slide-top -->
+													<div class="hoverbox ef-slide-top light">
+														
+														<!-- hb_front -->
+														<div class="hb_front"><img src="assets/images/myfirstwebsite.png" alt=""/>
+														</div><!-- End / hb_front -->
+														
+														
+														<!-- hb_back -->
+														<div class="hb_back">
+															<h2 class="work__title">My first website!</h2><span class="work__text">Github is in progress.</span>
+														</div><!-- End / hb_back -->
+														
+													</div><!-- End / hoverbox ef-slide-top -->
+											</div><!-- End / work -->
+											
+										</div>
+									</div>
+								</div>
+								<div class="grid-item">
+									<div class="grid-item__inner">
+										<div class="grid-item__content-wrapper">
+											
+											<!-- work -->
+											<div class="work">
+													
+													<!-- hoverbox ef-move-top -->
+													<div class="hoverbox ef-move-top light">
+														
+													
+														
+													</div><!-- End / hoverbox ef-move-top -->
+											</div><!-- End / work -->
+											
+										</div>
+									</div>
+								</div>
+								<div class="grid-item">
+									<div class="grid-item__inner">
+										<div class="grid-item__content-wrapper">
+											
+											<!-- work -->
+											<div class="work">
+													
+													<!-- hoverbox ef-push-bottom -->
+													<div class="hoverbox ef-push-bottom light">
+														
+														<!-- hb_front -->
+														<div class="hb_front"><img src="assets/images/predicting autoclaims.png" alt=""/>
+														</div><!-- End / hb_front -->
+														
+														
+														<!-- hb_back -->
+														<div class="hb_back">
+															<h2 class="work__title">Predicting Auto Claims</h2><p class="work__text"><br> A Machine Learning mdoel that predicts auto claim amounts - Proposed by Allstate <br><br><a href = "https://github.com/AnushaAbdulla/predicting_auto_claims" target = "_blank" >Github</a> </p>
+														</div><!-- hb_front -->
+														
+													</div><!-- End / hoverbox ef-push-bottom -->
+											</div><!-- End / work -->
+											
+										</div>
+									</div>
+								</div>
+								<div class="grid-item">
+									<div class="grid-item__inner">
+										<div class="grid-item__content-wrapper">
+											
+											<!-- work -->
+											<div class="work">
+													
+													<!-- hoverbox ef-slide-left -->
+													<div class="hoverbox ef-slide-left light">
+														
+														<!-- hb_front -->
+														<div class="hb_front"><img src="assets/images/twonote.png" alt=""/>
+														</div><!-- End / hb_front -->
+														
+														
+														<!-- hb_back -->
+														<div class="hb_back">
+															<h2 class="work__title">Two-Note</h2><span class="work__text"><br> A notes app with save, search, and account making features. <br> <br> <a href = "https://github.com/AnushaAbdulla/Two-Note" target = "_blank" >Github</a> </span>
+														</div><!-- End / hb_back -->
+														
+													</div><!-- End / hoverbox ef-slide-left -->
+											</div><!-- End / work -->
+											
+										</div>
+									</div>
+								</div>
+								<div class="grid-item">
+									<div class="grid-item__inner">
+										<div class="grid-item__content-wrapper">
+											
+											<!-- work -->
+											<div class="work">
+													
+													<!-- hoverbox ef-zoom-in -->
+													<div class="hoverbox ef-zoom-in light">
+														
+														<!-- hb_front -->
+														<div class="hb_front"><img src="assets/images/Everything Else.png" alt=""/>
+														</div><!-- End / hb_front -->
+														
+														
+														<!-- hb_back -->
+														<div class="hb_back">
+															<h2 class="work__title">All other projects</h2><span class="work__text"><a href = "https://github.com/AnushaAbdulla/AnushaAbdulla" target = "_blank" >Github</a></span>
+														</div><!-- End / hb_back -->
+														
+													</div><!-- End / hoverbox ef-zoom-in -->
+											</div><!-- End / work -->
+											
+										</div>
+									</div>
+								</div>
+								<div class="grid-item">
+									<div class="grid-item__inner">
+										<div class="grid-item__content-wrapper">
+											
+											<!-- work -->
+											<div class="work">
+													
+													<!-- hoverbox ef-slide-top -->
+													<div class="hoverbox ef-slide-top light">
+														
+														<!-- hb_front -->
+														<div class="hb_front"><img src="assets/images/Screenshot 2025-03-23 at 10.43.21 PM.png" alt=""/>
+														</div><!-- End / hb_front -->
+														
+														
+														<!-- hb_back -->
+														<div class="hb_back">
+															<h2 class="work__title">Predicting Evictions Using Airbnb Data in the Absence of Ground Truth Labels</h2><span class="work__text"> <a href = "https://github.com/maryam-tabar/Airbnb-Eviction" target = "_blank" >Github</a> <a href = "https://dl.acm.org/doi/10.1145/3701551.3703549" target = "_blank" >Paper</a></span>
+														</div><!-- End / hb_back -->
+														
+													</div><!-- End / hoverbox ef-slide-top -->
+											</div><!-- End / work -->
+											
+										</div>
+									</div>
+								</div>
+								<div class="grid-item">
+									<div class="grid-item__inner">
+										<div class="grid-item__content-wrapper">
+											
+											<!-- work -->
+											<div class="work">
+													
+													<!-- hoverbox ef-push-top -->
+													<div class="hoverbox ef-push-top light">
+														
+														<!-- hb_front -->
+														<div class="hb_front"><img src="assets/images/wids.png" alt=""/>
+														</div><!-- End / hb_front -->
+														
+														
+														<!-- hb_back -->
+														<div class="hb_back">
+															<h2 class="work__title">Predicting ADHD</h2><span class="work__text">A Kaggle Competition through Break Through Tech. <br> <br> -In Progress-</span>
+														</div><!-- End / hb_back -->
+														
+													</div><!-- End / hoverbox ef-push-top -->
+											</div><!-- End / work -->
+											
+										</div>
+									</div>
+								</div>
+								<div class="grid-item">
+									<div class="grid-item__inner">
+										<div class="grid-item__content-wrapper">
+											
+											<!-- work -->
+											<div class="work">
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						</div>
+					</div>
+				</section>
+				<!-- End / Section -->
+				
+			</div>
+			<!-- End / Content-->
+			
+			

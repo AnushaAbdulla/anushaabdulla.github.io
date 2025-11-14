@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+	<div id ="first" onclick = "getInfo(this.id)"><h2>This is the first content box!</h2></div>
+	<div id ="second" onclick = "getInfo(this.id)"><h2>This is the second content box!</h2></div>
+	<div id ="third" onclick = "getInfo(this.id)"><h2>This is the third content box!</h2></div>
+	<hr>
+	<form>
+		<div>Please enter some text:</div>
+		<input id = "input" type = "text" onkeyup = "updateOutput(this.id)">
+	</form>
+	<div>Form Data:</div>
+	<div id = "output"></div>
+</body>
+</html>
+<script	type = "text/javascript">
+	function getInfo(divId){
+		temp = document.getElementById(divId);
+		window.alert(temp.innerHTML);
+	}
+	function updateOutput(inputId){
+		input = document.getElementById(inputId);
+		output = document.getElementById('output');
+		output.innerHTML = input.value;
+	}
+</script>
